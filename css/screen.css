@@ -1398,7 +1398,7 @@ form#contact_form input#email {
 }
  @media only screen and (max-width: 767px) {
  #mainmenu {
-visibility: hidden;
+display: none; 
 height: 0;
 }
 
@@ -1406,11 +1406,11 @@ height: 0;
  #responsive-menu {
 display: inline-block;
 width: 100%;
-margin-top: 13px;
+
 }
 
 .logo {
- display:none; 
+display: none; 
 }
 
 .responsiveLogo {
@@ -1421,7 +1421,8 @@ margin-top: 13px;
 
 .responsiveLogo img {
    width: 10%;
-   margin-top: 3%;
+   margin-top:1%;
+   
    
 }
 }
