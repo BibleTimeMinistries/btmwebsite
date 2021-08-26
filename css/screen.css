@@ -1406,7 +1406,7 @@ height: 0;
  #responsive-menu {
 display: inline-block;
 width: 100%;
-
+margin-top: 13px;
 }
 
 .logo {
@@ -1420,7 +1420,7 @@ display: none;
 }
 
 .responsiveLogo img {
-   width: 10%;
+   width: 12%;
    margin-top:1%;
    
    
